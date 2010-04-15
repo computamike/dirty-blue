@@ -1,0 +1,5 @@
+.author {background:url(img/pen.jpg) no-repeat;}
+.date {background:url(img/clock.jpg) no-repeat;}
+.category {background:url(img/document.jpg) no-repeat;}
+.post ol {margin:0 0 0 40px;}
+#rss-right {background:url(img/rss-right.jpg);cursor:pointer;}
